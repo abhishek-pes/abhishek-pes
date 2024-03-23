@@ -1,5 +1,5 @@
 # Hey there! I'm Abhishek
-💡&nbsp;open source and devops enthusiast
+💡&nbsp;open source, full stack and devops enthusiast
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 🎓 &nbsp;I'm currently studying Computer Science at PES University.
